@@ -1,4 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My First App</string>
     <string name="action_settings">Settings</string>
+    <string name="button_startAcc">Accelerometer</string>
+    <string name="title_activity_accelerometer">Accelerometer</string>
+    <string name="button_startComp">Compass</string>
+    <string name="title_activity_compass">Compass</string>
 </resources>
